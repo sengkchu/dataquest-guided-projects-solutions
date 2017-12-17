@@ -12,6 +12,6 @@ Project #2 Basic Python: [Exploring Gun Deaths in the US](https://github.com/sen
 
 (skills showcased: csv module, datetime module, list comprehensions)
 
-Project #3: Intermediate Python: [Analyzing Thanksgiving Dinner]()
+Project #3: Intermediate Python: [Analyzing Thanksgiving Dinner](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Analyzing%20Thanksgiving%20Dinner.ipynb)
 
-(skills showcased: )
+(skills showcased: pandas, .apply(), .pivot_table(), .value_counts(), strings manipulation, boolean filtering)
