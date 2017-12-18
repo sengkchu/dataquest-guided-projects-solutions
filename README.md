@@ -13,5 +13,5 @@ The projects below will serve as reference notes for myself and anyone else who 
 ### Project #3: [Analyzing Thanksgiving Dinner](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Analyzing%20Thanksgiving%20Dinner.ipynb)
 ###### skills showcased: pandas, .apply(), .pivot_table(), .value_counts(), strings manipulation, boolean filtering
 
-### Project #4: [Guided Project_ Visualizing Earnings Based On College Majors](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
+### Project #4: [Visualizing Earnings Based On College Majors](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
 ###### skills showcased: pandas, matplotlib, histograms, bar charts, scatterplots, scatter matrices
