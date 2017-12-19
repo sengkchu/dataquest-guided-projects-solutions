@@ -15,3 +15,6 @@ The projects below will serve as reference notes for myself and anyone else who 
 
 ### Project #4: [Visualizing Earnings Based On College Majors](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
 ###### skills showcased: pandas, matplotlib, histograms, bar charts, scatterplots, scatter matrices
+
+### Project #5: [Visualizing The Gender Gap In College Degrees.ipynb](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb)
+###### skills showcased: pandas, matplotlib.pyplot, plot asthetics, plot layout
