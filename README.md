@@ -18,3 +18,9 @@ The projects below will serve as reference notes for myself and anyone else who 
 
 ### Project #5: [Visualizing The Gender Gap In College Degrees](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb)
 ###### skills showcased: pandas, matplotlib.pyplot, plot asthetics, plot layout
+
+### Project #6: [](https://.ipynb)
+###### skills showcased: 
+
+### Project #7: [](https://.ipynb)
+###### skills showcased: 
