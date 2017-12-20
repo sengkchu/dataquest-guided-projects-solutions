@@ -19,8 +19,8 @@ The projects below will serve as reference notes for myself and anyone else who 
 ### Project #5: [Visualizing The Gender Gap In College Degrees](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb)
 ###### skills showcased: pandas, matplotlib.pyplot, plot asthetics, plot layout
 
-### Project #6: [](https://.ipynb)
-###### skills showcased: 
+### Project #6: [Analyzing NYC High School Data](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Analyzing%20NYC%20High%20School%20Data/Guided%20Project_%20Analyzing%20NYC%20High%20School%20Data.ipynb)
+###### skills showcased: pandas, matplotlib.pyplot, correlations, regex, basemap, data analysis, string manipulation
 
-### Project #7: [](https://.ipynb)
-###### skills showcased: 
+### Project #7: [Star Wars Survey](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Star%20Wars%20Survey/Guided%20Project_%20Star%20Wars%20Survey.ipynb)
+###### skills showcased: pandas, matplotlib.pyplot, data cleaning, string manipulation, bar plots
