@@ -2,7 +2,7 @@
 
 This folder contains files created/used for the guided project at www.dataquest.io. This readme will only contain my solutions on the command line.
 
-
+----------------------------------------------------------------------------------------------------------------------------
 
 •	List the contents of the current directory with the ls command, and take note of the archive file crdc201314csv.zip.
 ###### ls
