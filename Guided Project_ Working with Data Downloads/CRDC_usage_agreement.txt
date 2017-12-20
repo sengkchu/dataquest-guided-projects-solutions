@@ -1,0 +1,15 @@
+CRDC Data Usage Agreement
+
+BY DOWNLOADING OR USING THE ACCOMPANYING DATASET, YOU SIGNIFY YOUR AGREEMENT TO COMPLY WITH THE BELOW-STATED REQUIREMENTS. 
+
+The purpose of the U.S. Department of Education (ED) Civil Rights Data Collection (CRDC) is to obtain data related to the nation’s public school districts’ and elementary and secondary schools’ obligation to provide equal educational opportunity. 
+
+The CRDC collects information about students and employees in public schools, including enrollment and educational programs and services, disaggregated by race/ethnicity, sex, limited English proficiency, and disability. Information is collected in an aggregated form at the school-level to protect individually identifiable data from disclosure. Personally identifiable information (e.g., student’s name, social security number, date of birth) is not collected as part of the CRDC. 
+
+The U.S. Department of Education Office for Civil Rights (OCR) implements statistical methods to minimize the risk of disclosure of individually identifiable data. 
+To help prevent the CRDC from being used to identify any individuals, OCR also requires that users adhere to the following restrictions:
+
+1.	Make no use of the identity of any person discovered inadvertently, and advise OCR via email at ocrdata@ed.gov of any such discovery.
+
+2.	Not link this dataset with individually identifiable data from other datasets.
+
