@@ -24,3 +24,9 @@ The projects below will serve as reference notes for myself and anyone else who 
 
 ### Project #7: [Star Wars Survey](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Star%20Wars%20Survey/Guided%20Project_%20Star%20Wars%20Survey.ipynb)
 ###### skills showcased: pandas, matplotlib.pyplot, data cleaning, string manipulation, bar plots
+
+### Project #8: [Working with Data Downloads](https://github.com/sengkchu/Dataquest-Guided-Projects/tree/master/Guided%20Project_%20Working%20with%20Data%20Downloads)
+###### skills showcased: pandas, command line, working with multiple python scripts
+
+### Project #9: [Transforming Data with Python](https://github.com/sengkchu/Dataquest-Guided-Projects/tree/master/Guided%20Project_%20Transforming%20data%20with%20Python)
+###### skills showcased: pandas, command line, working with multiple python scripts
