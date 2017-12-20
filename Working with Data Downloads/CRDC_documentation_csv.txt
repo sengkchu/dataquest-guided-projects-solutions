@@ -1,0 +1,32 @@
+
+About the Civil Rights Data Collection
+
+The purpose of the U.S. Department of Education (ED) Civil Rights Data Collection (CRDC) is to obtain data related to the nation’s public school districts and elementary and secondary schools’ obligation to provide equal educational opportunity. Since 1968, the CRDC has collected a variety of information, including student enrollment and educational programs and services data that are disaggregated by race/ethnicity, sex, limited English proficiency, and disability, about
+public schools across the nation.
+
+The CRDC is a mandatory data collection, authorized under the statutes and regulations implementing Title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, Section
+504 of the Rehabilitation Act of 1973, and under the Department of Education Organization Act (20 U.S.C. § 3413). The regulations implementing these provisions can be found at 34 CFR 100.6(b); 34
+CFR 106.71; and 34 CFR 104.61.
+
+The 2013-14 CRDC is a universe survey. School districts self-report and certify all data presented. 
+
+
+
+Documentation for the 2013-14 CRDC
+
+The Public-Use Data File User’s Manual for the 2013–14 CRDC is available at http://ocrdata.ed.gov/DataFileUsersManual. The User's Manual provides information about the purpose of the study, the target population and respondents, data anomalies and considerations, differences in the restricted and public-use data, data collection procedures, the data file structure, and data processing.
+
+A document describing the 2013-14 CRDC school-level table layout is available at https://crdc.grads360.org/#communities/pdc/documents/5123.
+
+For more information about the CRDC, please visit ocrdata.ed.gov.
+
+
+
+Documentation for the 2013-14 CRDC Single School-Level Flat File
+
+CSv: 
+CRDC2013_14.csv is a single flat file of all the school-level data from the 2013-14 CRDC. For each variable in CRDC2013_14.csv, the contents file (CRDC2013_14contents.csv) lists each variable name, the variable order, the value type (i.e. numeric of text), the variable label, and the survey questionnaire part and question number.
+
+Excel:
+CRDC2013_14.xlsx is a single flat file of all the school-level data from the 2013-14 CRDC. CRDC2013_14.xlsx contains two tabs. The tab labeled "data" contains the data. The tab labeled "variables" lists each variable name, the variable order, the value type (i.e. numeric or text), the variable label, and the survey questionnaire part and question number.
+Note: Users have reported issues with downloading the .zip file that includes data in Excel format, due to its very large file size. Therefore, this .zip file includes only the .csv format. 
