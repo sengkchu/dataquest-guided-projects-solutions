@@ -40,3 +40,10 @@ The projects below will serve as reference notes for myself and anyone else who 
 ### Project #12: [Creating Relations in SQLite](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Creating%20relations%20in%20SQLite/Guided%20Project_%20Creating%20relations%20in%20SQLite.ipynb)
 ###### tools/skills: python+sqlite3, pandas, multiple tables, foreign keys, subqueries, populating new tables, .executemany()
 
+### Project #12: [Analyzing Movie Reviews](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Analyzing%20Movie%20Reviews/Guided%20Project_%20Analyzing%20Movie%20Reviews.ipynb)
+###### tools/skills: pandas, descriptive statistics, numpy, .sort_values(), matplotlib, scipy, sci.linregress, correlation
+
+### Project #12: [Winning Jeopardy](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Winning%20Jeopardy/Guided%20Project_%20Winning%20Jeopardy.ipynb)
+###### tools/skills: pandas, matplotlib, data cleaning, string manipulation, chi squared test
+
+
