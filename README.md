@@ -1,6 +1,6 @@
 ## Dataquest Guided Projects
 
-This repository is a collection of my projects from Dataquest.io. I personally believe the best way to learn is by being constantly exposed to examples and really work with those examples. In addition to learning by practice, I believe it is helpful for students to dive into the code line by line and really understand what everything is doing.
+This repository is a collection of my projects from Dataquest.io. 
 
 The projects below will serve as reference notes for myself and anyone else who is interested. These projects contain lots of comments showing my thought process and what I personally learned from each project.
 
