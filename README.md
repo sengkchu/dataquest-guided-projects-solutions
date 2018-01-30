@@ -5,19 +5,19 @@ This repository is a collection of my projects from Dataquest.io.
 The projects below will serve as reference notes for myself and anyone else who is interested. These projects contain lots of comments showing my thought process and what I personally learned from each project.
 
 ### Project #1: [Exploring US births](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Explore%20U.S.%20Births/Guided%20Project_%20Explore%20U.S.%20Births.ipynb)
-<sup>Python concepts explored: lists, dictionaries, functions, for loops</sup>
+<sub>Python concepts explored: lists, dictionaries, functions, for loops</sub>
 
 <sup>Python functions and methods used: .read(), open(), .split(), .append(), int()</sup>
 
 ### Project #2: [Exploring Gun Deaths in the US](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Exploring%20Gun%20Deaths%20in%20the%20US/Guided%20Project_%20Exploring%20Gun%20Deaths%20in%20the%20US.ipynb)
-<sup>Python concepts explored: list comprehension, datetime module, csv module</sup>
+<sub>Python concepts explored: list comprehension, datetime module, csv module</sub>
 
 <sup>Python functions and methods used: csv.reader(), .items(), list(), datetime.datetime()</sup>
 
 ### Project #3: [Analyzing Thanksgiving Dinner](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Analyzing%20Thanksgiving%20Dinner/Guided%20Project_%20Analyzing%20Thanksgiving%20Dinner.ipynb)
-<sup>Python concepts explored: pandas, functions, boolean filtering 
+<sub>Python concepts explored: pandas, functions, boolean filtering</sub>
 
-Python functions and methods used: .read_csv(), .pivot_table(), .replace(), .describe(), .apply(), .isnull(), .columns, .shape, .head</sup>
+<sup>Python functions and methods used: .read_csv(), .pivot_table(), .replace(), .describe(), .apply(), .isnull(), .columns, .shape, .head</sup>
 
 ---
 
