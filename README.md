@@ -5,13 +5,18 @@ This repository is a collection of my projects from Dataquest.io.
 The projects below will serve as reference notes for myself and anyone else who is interested. These projects contain lots of comments showing my thought process and what I personally learned from each project.
 
 ### Project #1: [Exploring US births](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Explore%20U.S.%20Births/Guided%20Project_%20Explore%20U.S.%20Births.ipynb)
-###### tools/skills: reading csv files, splitting strings, for loops, functions, list operatons, if statements, dictionaries
+<sup>Python concepts explored: lists, dictionaries, functions, for loops</sup>
+<sup>Python functions and methods used: .read(), open(), .split(), .append(), int()</sup>
 
 ### Project #2: [Exploring Gun Deaths in the US](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Exploring%20Gun%20Deaths%20in%20the%20US/Guided%20Project_%20Exploring%20Gun%20Deaths%20in%20the%20US.ipynb)
-###### tools/skills: csv module, datetime module, list comprehensions
+<sup>Python concepts explored: list comprehension, datetime module, csv module</sup>
+<sup>Python functions and methods used: csv.reader(), .items(), list(), datetime.datetime()</sup>
 
 ### Project #3: [Analyzing Thanksgiving Dinner](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Analyzing%20Thanksgiving%20Dinner/Guided%20Project_%20Analyzing%20Thanksgiving%20Dinner.ipynb)
-###### tools/skills: pandas, .apply(), .pivot_table(), .value_counts(), strings manipulation, boolean filtering
+<sup>Python concepts explored: pandas, functions, boolean filtering 
+Python functions and methods used: .read_csv(), .pivot_table(), .replace(), .describe(), .apply(), .isnull(), .columns, .shape, .head</sup>
+
+---
 
 ### Project #4: [Visualizing Earnings Based On College Majors](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
 ###### tools/skills: pandas, matplotlib, histograms, bar charts, scatterplots, scatter matrices
