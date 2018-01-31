@@ -20,37 +20,34 @@ The projects below will serve as reference notes for myself and anyone else who 
 <sup>Python functions and methods used: .read_csv(), .pivot_table(), .replace(), .describe(), .apply(), .isnull(), .columns, .shape, .head()</sup>
 
 ### Project #4: [Visualizing Earnings Based On College Majors](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors.ipynb)
-<sub>Python concepts explored: pandas, functions, boolean filtering</sub>
+<sub>Python concepts explored: pandas, matplotlib, histograms, bar charts, scatterplots, scatter matrices</sub>
 
-<sup>Python functions and methods used: .read_csv(), .pivot_table(), .replace(), .describe(), .apply(), .isnull(), .columns, .shape, .head()</sup>
+<sup>Python functions and methods used: .plot(), scatter_matrix(), hist(), iloc[], .head(), .tail(), .describe()</sup>
 
 
 ### Project #5: [Visualizing The Gender Gap In College Degrees](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees.ipynb)
-<sub>Python concepts explored: pandas, functions, boolean filtering</sub>
+<sub>Python concepts explored: pandas, matplotlib, histograms, line plots, chart graphics</sub>
 
-<sup>Python functions and methods used: .read_csv(), .pivot_table(), .replace(), .describe(), .apply(), .isnull(), .columns, .shape, .head()</sup>
+<sup>Python functions and methods used: .savefig(), .text(), .axhline(), .set_yticks(), .tick_params(), .set_title(), .set_ylim(), .set_xlim(), .spines(), .tick_params()</sup>
 
 
 ### Project #6: [Analyzing NYC High School Data](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Analyzing%20NYC%20High%20School%20Data/Guided%20Project_%20Analyzing%20NYC%20High%20School%20Data.ipynb)
-<sub>Python concepts explored: pandas, functions, boolean filtering</sub>
+<sub>Python concepts explored: pandas, matplotlib.pyplot, correlations, regex, basemap, data analysis, string manipulation</sub>
 
-<sup>Python functions and methods used: .read_csv(), .pivot_table(), .replace(), .describe(), .apply(), .isnull(), .columns, .shape, .head()</sup>
+<sup>Python functions and methods used: .scatter(), info(), .tolist(), .groupby(), .agg(), .concat(), .apply(), .strip, .merge(), .fillna(), .corr()</sup>
 
 
 ### Project #7: [Star Wars Survey](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Star%20Wars%20Survey/Guided%20Project_%20Star%20Wars%20Survey.ipynb)
-<sub>Python concepts explored: pandas, functions, boolean filtering</sub>
+<sub>Python concepts explored: pandas, matplotlib.pyplot, data cleaning, string manipulation, bar plots</sub>
 
-<sup>Python functions and methods used: .read_csv(), .pivot_table(), .replace(), .describe(), .apply(), .isnull(), .columns, .shape, .head()</sup>
-
----
+<sup>Python functions and methods used: .read_csv(), .columns, notnull, map(), .dtypes, .rename, astype(), .mean(), .sum(), .xlabel(), .ylabel()</sup>
 
 ### Project #8: [Working with Data Downloads](https://github.com/sengkchu/Dataquest-Guided-Projects/tree/master/Guided%20Project_%20Working%20with%20Data%20Downloads)
-###### tools/skills: pandas, manipulating files with command line
+<sub>Concepts explored: pandas, manipulating files with command line</sub>
 
 ### Project #9: [Transforming Data with Python](https://github.com/sengkchu/Dataquest-Guided-Projects/tree/master/Guided%20Project_%20Transforming%20data%20with%20Python)
-###### tools/skills: pandas, working with multiple python scripts, dateutil.parser
+<sub>Concepts explored: pandas, manipulating files with command line, working with multiple python scripts, dateutil.parser</sub>
 
----
 
 ### Project #10: [Analyzing CIA Factbook](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python/Guided%20Project_%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python.ipynb)
 <sub>Python/SQL concepts explored: python+sqlite3, pandas, SQL queries, SQL subqueries, matplotlib.plyplot, seaborn, histograms</sub>
