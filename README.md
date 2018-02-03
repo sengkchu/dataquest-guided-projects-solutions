@@ -84,4 +84,9 @@ The projects below will serve as reference notes for myself and anyone else who 
 
 <sup>Python functions and methods used: .columns, .lower(), .sub(), .apply(), sum(), .array(), .split(), .shape, .mean(), .iterrows(), .remove(), .add(), .append()</sup>
 
+### Project #15: [Predicting Car Prices](https://github.com/sengkchu/Dataquest-Guided-Projects/blob/master/Guided%20Project_%20Predicting%20Car%20Prices/Guided%20Project_%20Predicting%20Car%20Prices.ipynb)
+<sub>Concepts explored: Concepts explored: pandas, matplotlib, data cleaning, features engineering, k-nearest neighbors, hyperparameter tuning, RMSE</sup>
+
+<sup>Functions and methods used: .read_csv(), .replace(), .drop(), .astype(), isnull().sum(), .min(), .max(), .mean(), .permutation(), .reindex(), .iloc[], .fit(), .predict(), mean_squared_error(), .Series(), .sort_values(), .plot(), .legend()</sup>
+
 
