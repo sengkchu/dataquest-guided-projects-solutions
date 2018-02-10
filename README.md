@@ -108,5 +108,20 @@ The projects below will serve as reference notes for myself and anyone else who 
 ### Project #19: [Investigating Airplane Accidents](https://github.com/sengkchu/Dataquest-Guided-Projects-Solutions/tree/master/Guided%20Project_%20Investigating%20Airplane%20Accidents)
 <sub>Concepts explored: Big O notation, strings, dictionaries, data parsing, try/except</sub>
 
-<sup>Functions, methods, and properties used: range(), .append(), .split(), .values(), Counter(), </sup>
+<sup>Functions, methods, and properties used: range(), .append(), .split(), .values(), Counter()</sup>
+
+### Project #20: [Working with Spark in Jupyter Notebook](https://github.com/sengkchu/Dataquest-Guided-Projects-Solutions/blob/master/Review%20Project_%20Working%20with%20Spark%20in%20Jupyter%20Notebook/Review%20Project_%20Working%20with%20Spark%20in%20Jupyter%20Notebook.ipynb)
+<sub>Concepts explored: Spark</sub>
+
+<sup>PySpark methods used: .map(), .flatMap(), .filter(), .count(), .collect(), .take()</sup>
+
+### Project #21: [Working with Spark Dataframes and Spark SQL in Jupyter](https://github.com/sengkchu/Dataquest-Guided-Projects-Solutions/blob/master/Review%20Project_%20Working%20with%20Spark%20Dataframes%20and%20Spark%20SQL%20in%20Jupyter/Review%20Project_%20Working%20with%20Spark%20Dataframes%20and%20Spark%20SQL%20in%20Jupyter.ipynb)
+<sub>Concepts explored: Spark SQL, Spark Dataframes, combining data from multiple files</sub>
+
+<sup>Methods and functions used: .SQLContext(), .head(), .toPandas(), .show(), .select(), .hist(), .registerTempTable()</sup>
+
+
+
+
+
 
